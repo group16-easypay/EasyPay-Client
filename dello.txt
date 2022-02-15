@@ -1,0 +1,7 @@
+flutter packages pub run build_runner build --delete-conflicting-outputs
+
+Encrption key = FLWSECK_TESTcc6563bff662
+
+Secrete Key  = FLWSECK_TEST-2caaf2d37f32766b5edc0fb201f36432-X
+
+Email-flutter-wave = ravesb_11a2b36f12e744983c74_brunohectre@gmail.com
